@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "mn1yR5Qkd4SachP43o4tR6WQgk8EaG16bmAYG9gqj80KkpqK+s5kxpRNBu7aZtADMcZjf5O9eYnqsAicerw4+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AgithRavn\\Documents\\GitHub\\NUnit-Test\\nunit-3-dotnet-testing-introduction\\02\\demos\\before\\01TestProject\\Loans\\Loans.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AgithRavn\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\AgithRavn\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\AgithRavn\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\AgithRavn\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\AgithRavn\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\AgithRavn\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\AgithRavn\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
