@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "rw9tC9Pd8jxd8dnBBST4ppwX1PCpb9V1aUYm3NdFFS3eS9aZzGxnrOIFZFmvgK4qiXKtlJ8TzbVpDMgl+YBE9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AgithRavn\\Documents\\GitHub\\NUnit-Test\\nunit-3-dotnet-testing-introduction\\02\\demos\\after\\02FirstTest\\Loans\\Loans.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AgithRavn\\.nuget\\packages\\nunit.console\\3.12.0\\nunit.console.3.12.0.nupkg.sha512",
+    "C:\\Users\\AgithRavn\\.nuget\\packages\\nunit.consolerunner\\3.12.0\\nunit.consolerunner.3.12.0.nupkg.sha512",
+    "C:\\Users\\AgithRavn\\.nuget\\packages\\nunit.extension.nunitprojectloader\\3.6.0\\nunit.extension.nunitprojectloader.3.6.0.nupkg.sha512",
+    "C:\\Users\\AgithRavn\\.nuget\\packages\\nunit.extension.nunitv2driver\\3.8.0\\nunit.extension.nunitv2driver.3.8.0.nupkg.sha512",
+    "C:\\Users\\AgithRavn\\.nuget\\packages\\nunit.extension.nunitv2resultwriter\\3.6.0\\nunit.extension.nunitv2resultwriter.3.6.0.nupkg.sha512",
+    "C:\\Users\\AgithRavn\\.nuget\\packages\\nunit.extension.teamcityeventlistener\\1.0.7\\nunit.extension.teamcityeventlistener.1.0.7.nupkg.sha512",
+    "C:\\Users\\AgithRavn\\.nuget\\packages\\nunit.extension.vsprojectloader\\3.8.0\\nunit.extension.vsprojectloader.3.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}

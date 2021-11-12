@@ -7,7 +7,7 @@ namespace Loans.Tests
     [Category("Product Comparison")]
     public class MonthlyRepaymentComparisonShould
     {
-        [Test]        
+        [Test]
         public void RespectValueEquality()
         {
             var a = new MonthlyRepaymentComparison("a", 42.42m, 22.22m);
@@ -16,7 +16,7 @@ namespace Loans.Tests
             Assert.That(a, Is.EqualTo(b));
         }
 
-        [Test]        
+        [Test]
         public void RespectValueInequality()
         {
             var a = new MonthlyRepaymentComparison("a", 42.42m, 22.22m);

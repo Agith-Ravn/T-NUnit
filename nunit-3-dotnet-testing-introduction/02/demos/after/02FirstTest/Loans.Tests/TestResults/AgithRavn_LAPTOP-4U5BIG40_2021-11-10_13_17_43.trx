@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="1cbc5406-cf14-4147-88c8-19d6216b5e7a" name="AgithRavn@LAPTOP-4U5BIG40 2021-11-10 13:17:43" runUser="AzureAD\AgithRavn" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2021-11-10T13:17:43.0291769+01:00" queuing="2021-11-10T13:17:43.0291781+01:00" start="2021-11-10T13:17:42.1987430+01:00" finish="2021-11-10T13:17:43.0355531+01:00" />
+  <TestSettings name="default" id="55614c45-4eda-4e86-b6eb-0e312166f2bc">
+    <Deployment runDeploymentRoot="AgithRavn_LAPTOP-4U5BIG40_2021-11-10_13_17_43" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="9f18de8b-af8e-4a67-9fcc-b5c690df15a2" testId="08180010-1081-2ad5-2a09-c8ba5a1df18d" testName="ReturnTermInMonths" computerName="LAPTOP-4U5BIG40" duration="00:00:00.0090360" startTime="2021-11-10T13:17:42.8863326+01:00" endTime="2021-11-10T13:17:42.8953062+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9f18de8b-af8e-4a67-9fcc-b5c690df15a2" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="ReturnTermInMonths" storage="c:\users\agithravn\documents\github\nunit-test\nunit-3-dotnet-testing-introduction\02\demos\after\02firsttest\loans.tests\bin\debug\net5.0\loans.tests.dll" id="08180010-1081-2ad5-2a09-c8ba5a1df18d">
+      <Execution id="9f18de8b-af8e-4a67-9fcc-b5c690df15a2" />
+      <TestMethod codeBase="C:\Users\AgithRavn\Documents\GitHub\NUnit-Test\nunit-3-dotnet-testing-introduction\02\demos\after\02FirstTest\Loans.Tests\bin\Debug\net5.0\Loans.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="Loans.Tests.LoanTermShould" name="ReturnTermInMonths" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="08180010-1081-2ad5-2a09-c8ba5a1df18d" executionId="9f18de8b-af8e-4a67-9fcc-b5c690df15a2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>NUnit Adapter 4.1.0.0: Test execution started&#xD;
+Running all tests in C:\Users\AgithRavn\Documents\GitHub\NUnit-Test\nunit-3-dotnet-testing-introduction\02\demos\after\02FirstTest\Loans.Tests\bin\Debug\net5.0\Loans.Tests.dll&#xD;
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run&#xD;
+NUnit Adapter 4.1.0.0: Test execution complete&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>

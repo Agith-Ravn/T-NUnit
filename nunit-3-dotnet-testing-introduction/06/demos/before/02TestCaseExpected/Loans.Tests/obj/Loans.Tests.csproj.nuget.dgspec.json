@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\AgithRavn\\Documents\\GitHub\\NUnit-Test\\nunit-3-dotnet-testing-introduction\\06\\demos\\before\\02TestCaseExpected\\Loans.Tests\\Loans.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\AgithRavn\\Documents\\GitHub\\NUnit-Test\\nunit-3-dotnet-testing-introduction\\06\\demos\\before\\02TestCaseExpected\\Loans.Tests\\Loans.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AgithRavn\\Documents\\GitHub\\NUnit-Test\\nunit-3-dotnet-testing-introduction\\06\\demos\\before\\02TestCaseExpected\\Loans.Tests\\Loans.Tests.csproj",
+        "projectName": "Loans.Tests",
+        "projectPath": "C:\\Users\\AgithRavn\\Documents\\GitHub\\NUnit-Test\\nunit-3-dotnet-testing-introduction\\06\\demos\\before\\02TestCaseExpected\\Loans.Tests\\Loans.Tests.csproj",
+        "packagesPath": "C:\\Users\\AgithRavn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AgithRavn\\Documents\\GitHub\\NUnit-Test\\nunit-3-dotnet-testing-introduction\\06\\demos\\before\\02TestCaseExpected\\Loans.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AgithRavn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\AgithRavn\\Documents\\GitHub\\NUnit-Test\\nunit-3-dotnet-testing-introduction\\06\\demos\\before\\02TestCaseExpected\\Loans\\Loans.csproj": {
+                "projectPath": "C:\\Users\\AgithRavn\\Documents\\GitHub\\NUnit-Test\\nunit-3-dotnet-testing-introduction\\06\\demos\\before\\02TestCaseExpected\\Loans\\Loans.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "System.Reflection": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Runtime.Extensions": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AgithRavn\\Documents\\GitHub\\NUnit-Test\\nunit-3-dotnet-testing-introduction\\06\\demos\\before\\02TestCaseExpected\\Loans\\Loans.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AgithRavn\\Documents\\GitHub\\NUnit-Test\\nunit-3-dotnet-testing-introduction\\06\\demos\\before\\02TestCaseExpected\\Loans\\Loans.csproj",
+        "projectName": "Loans",
+        "projectPath": "C:\\Users\\AgithRavn\\Documents\\GitHub\\NUnit-Test\\nunit-3-dotnet-testing-introduction\\06\\demos\\before\\02TestCaseExpected\\Loans\\Loans.csproj",
+        "packagesPath": "C:\\Users\\AgithRavn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AgithRavn\\Documents\\GitHub\\NUnit-Test\\nunit-3-dotnet-testing-introduction\\06\\demos\\before\\02TestCaseExpected\\Loans\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AgithRavn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "System.Reflection": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Runtime.Extensions": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
